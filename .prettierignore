@@ -1,0 +1,9 @@
+.idea
+.vscode
+.vs
+.husky/_
+node_modules
+dist
+build
+out
+coverage
